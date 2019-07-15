@@ -1,0 +1,9 @@
+{
+  "name": "RomaNepali",
+  "version": "0.0.1",
+  "description": "Roman to Nepali unicode conversion",
+  "main": "index.js",
+  "repository": "git@github.com:a-n-t-a-r-a/RomaNepali.git",
+  "author": "antara <a-n-t-a-r-a@outlook.com>",
+  "license": "MIT"
+}
