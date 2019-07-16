@@ -1,1 +1,1 @@
-module.exports = require('./lib/romaNepali');
+module.exports = require('./lib/romanNepali');
