@@ -1,9 +1,9 @@
 'use strict';
 
-const RomaNepali = require('../lib/romaNepali.js');
+const RomanNepali = require('../lib/romanNepali.js');
 
-const romanText = "ma";
-const convertedText = RomaNepali.convert(romanText);
+const romanText = "maa";
+const convertedText = RomanNepali.convert(romanText);
 
 
 console.log("Input: " + romanText);
